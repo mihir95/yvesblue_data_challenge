@@ -1,0 +1,5 @@
+carbon_calculation: contains carbon_analytic_calculation.ipynb, and test.json files
+	Instructions/Suggestions are included in the comments in carbon_analytic_calculation.ipynb
+	
+query_optimization: contains esg_analysis.dmp and query.sql
+	Suggestions are included in the comments in query.sql file
