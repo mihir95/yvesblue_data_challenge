@@ -1,0 +1,42 @@
+[
+	[
+	  {
+		"ISIN": "US0",
+		"Total Energy Use": 10,
+		"Total CO2 Equivalents Emissions": 0,
+		"Renewable Energy Purchased": 0,
+		"Renewable Energy Produced": 0,
+		"Carbon Credit Value": 0
+	  },
+	  {
+		"ISIN": "US1",
+		"Total Energy Use": 8,
+		"Total CO2 Equivalents Emissions": 3,
+		"Renewable Energy Purchased": 31,
+		"Renewable Energy Produced": 3,
+		"Carbon Credit Value": 5
+	  },
+	  {
+		"ISIN": "US2",
+		"Total Energy Use": 15,
+		"Total CO2 Equivalents Emissions": 1,
+		"Renewable Energy Purchased": 6,
+		"Renewable Energy Produced": 10,
+		"Carbon Credit Value": 8
+	  }
+	],
+	[
+	  {
+		"ISIN": "US0",
+		"Adjusted CO2": 0.0
+	  },
+	  {
+		"ISIN": "US1",
+	    "Adjusted CO2": -0.55
+	  }, 
+	  {
+		"ISIN": "US2",
+	    "Adjusted CO2": -6.1
+	  }
+	]
+]
